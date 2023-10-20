@@ -3,13 +3,11 @@ git status
 git add .
 git commit -m "ims"
 git branch -M main
-git remote add origin https://github.com/javecilla/inventory_system.git
+git remote add origin https://github.com/javecilla/g12-thesis-inventory-system.git
 git push -u origin main
 
-Token: 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
-
 --For Merge Conflicts
-git remote add origin https://github.com/javecilla/inventory_system.git
+git remote add origin https://github.com/javecilla/g12-thesis-inventory-system.git
 git push -u origin main
 git pull --rebase origin main
 git log

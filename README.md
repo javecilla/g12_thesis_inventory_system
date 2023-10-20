@@ -41,13 +41,13 @@ Start the development server by running npm start.
 Access the application by navigating to localhost:3000 in your web browser.
 
 #### Download link:
-https://github.com/javecilla/inventory_system/archive/refs/heads/master.zip
-    
+https://github.com/javecilla/g12-thesis-inventory-system/archive/refs/heads/master.zip
+ 
     
 ## Tech Stack
 This system was made of the following technologies:
 
-**Client Side:** HTML, CSS, JS, Frameworks: [JS(Jquery), Bootstrap]
+**Client Side:** HTML, CSS, JS, Frameworks: [Bootstrap], Library: [jQuery]
 
 **Server Side:** PHP
 
@@ -57,7 +57,7 @@ This system was made of the following technologies:
 ## License
 This project is licensed under the MIT License.
 
-**Code License:** Released under the [MIT](https://github.com/javecilla/inventory_system/blob/main/LICENSE.md) license.
+**Code License:** Released under the [MIT](https://github.com/javecilla/g12-thesis-inventory-system/blob/main/LICENSE.md) license.
 
 
 ## Authors
@@ -65,10 +65,8 @@ This project is licensed under the MIT License.
 Copyright (c) 2023 - Present, Designed & Developed by [Jerome Avecilla](https://github.com/javecilla)
 
 ## Developer Contact
+-Website: https://javecilla.vercel.app/
 -Facebook: https://www.facebook.com/jerome.avecilla24
-
 -GitHub: https://github.com/javecilla
-
 -Email: jeromesavc@gmail.com
-
 -Contact no: (+63) 977246553
