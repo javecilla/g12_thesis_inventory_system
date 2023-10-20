@@ -1,0 +1,19 @@
+#/********************************************************
+ #*  ©JEROME AVECILLA -> ICT 12 DIGNIFIED S.Y 2022-2023
+ #*******************************************************/
+
+# mod_rewrite starts here
+
+RewriteEngine on 
+
+# does not apply to existing directories, meaning that if the folder exist on the server then don't change anything and don't run the rule.
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# check for file in directory with .php extension
+
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+
+# here we actually show the page that has the .php extension
+
+RewriteRule ^(.*)$ $1.php [NC,L]

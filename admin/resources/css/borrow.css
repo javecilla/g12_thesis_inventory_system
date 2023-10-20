@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box; 
+}
+      /*user guide*/
+      .equipment-img {
+        width: 120px;
+      }
+      /*costumizing tooltip*/
+      .tooltip-inner {
+        background-color: #E5E7E9 !important;
+        color: #424949;
+      }
+      .qty {
+        width: 80px; 
+        height: 45px;
+      }
+      .bquantity {
+        width: 60px;
+        height: 55px;
+      }
+      button.remove_that_equipment {
+        width: 100px;
+      }
+      small {
+        font-size: 13px;
+      }
+      button.clear {
+        width: 100px;
+      }
+      .schoolBranch {
+        /*cursor: no-drop;*/
+        user-select: none;
+        pointer-events: none;
+      }
+      select.costumer_name {
+        height: 42px!important;
+      }
+      input.readonly {
+        pointer-events: none;
+      }
+      .subTotal, .totalAmount {
+        border: none;
+        pointer-events: none;
+        background: transparent;
+      }
+      .btn-modal {
+        margin-top: -60px;
+      }
+      #instruction {
+        background-color: #f8f9fa;
+        border-radius: 0px;
+        border-left: 5px solid #868e96;
+        font-size: 15px;
+      }
+      .nodisplay {
+        display: none!important;
+      }

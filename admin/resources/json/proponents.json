@@ -1,0 +1,102 @@
+{
+  	"proponents": [
+	  	{
+		   "researcherOne": {
+		      "imagesrc": "resources/images/system-photo/proponents/javecilla.png",
+		      "name": "Jerome Avecilla",
+		      "position": "Leader & Programmer",
+		      "description": "As the research leader, my responsibilities include guiding the team towards achieving project goals, ensuring collaborative and efficient teamwork, and providing clear communication and direction. Additionally, as a programmer, I am responsible for writing a code and developing the website's inventory system."
+		   },
+		   "researcherTwo": {
+		      "imagesrc": "resources/images/system-photo/proponents/cedric.jpg",
+		      "name": "Cedric Resurreccion",
+		      "position": "System Analyst 1",
+		      "description": "System analyst in our research group, I am responsible for analyzing user requirements, identifying potential issues, testing and validation, and continuously improving the system."
+		   }
+	  	},
+    	{ 
+      	"researcherOne": {
+	      	"imagesrc": "resources/images/system-photo/proponents/prince_ken.jpg",
+	      	"name": "Prince Lumungsod",
+	      	"position": "System Analyst 2",
+	      	"description": "I am responsible for designing system architecture, identifying documenting system specifications, testing and validation. We work closely with stakeholders and the development team to ensure that the system meets user requirements and functions correctly."
+  			},
+    		"researcherTwo": {
+		    	"imagesrc": "resources/images/system-photo/proponents/jay-cambi.jpg",
+		    	"name": "Jay Cambi",
+		    	"position": "Research Coordinator",
+		    	"description": "As the research coordinator for my group, I play a crucial role in ensuring the success of the research project. I provide valuable input regarding study design and methods, working closely with the team to ensure that the research is conducted in an efficient and effective manner."
+    		}
+    	},
+    	{ 
+      	"researcherOne": {
+	      	"imagesrc": "resources/images/system-photo/proponents/erwin.jpg",
+	      	"name": "Erwin Dagoc",
+	      	"position": "Research Documentation",
+	      	"description": "As research documentation in my research group, i am responsible for creating and maintaining accurate, detailed, and up-to-date documentation related to the research project, including research protocols, informed consent forms, study manuals, data collection forms, and standard operating procedures."
+  			},
+    		"researcherTwo": {
+		    	"imagesrc": "resources/images/system-photo/proponents/mahor.jpg",
+		    	"name": "Maureen Mahor",
+		    	"position": "Research Assistant",
+		    	"description": "As a research assistant in the group, a im participate in the development of data analysis, including the creation of system documentation and writing transcripts. i also is responsible for accurately recording and organizing research data, and for conducting preliminary analysis to help identify patterns of data."
+    		}
+    	},
+    	{ 
+      	"researcherOne": {
+	      	"imagesrc": "resources/images/system-photo/proponents/basanta.jpg",
+	      	"name": "Riah Jane Basanta",
+	      	"position": "Contributor",
+	      	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+  			},
+    		"researcherTwo": {
+		    	"imagesrc": "resources/images/system-photo/proponents/raytana.jpg",
+		    	"name": "Jasmin Raytana",
+		    	"position": "Contributor",
+		    	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+    		}
+    	},
+    	{ 
+      	"researcherOne": {
+	      	"imagesrc": "resources/images/system-photo/proponents/castro.jpg",
+	      	"name": "Jay Castro",
+	      	"position": "Contributor",
+	      	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+  			},
+    		"researcherTwo": {
+		    	"imagesrc": "resources/images/system-photo/proponents/jed.jpg",
+		    	"name": "Jed Languido",
+		    	"position": "Contributor",
+		    	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+    		}
+    	},
+    	{ 
+      	"researcherOne": {
+	      	"imagesrc": "resources/images/system-photo/proponents/default.jpg",
+	      	"name": "Carlo Resurreccion",
+	      	"position": "Contributor",
+	      	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+  			},
+    		"researcherTwo": {
+		    	"imagesrc": "resources/images/system-photo/proponents/default.jpg",
+		    	"name": "Jan Paul Resurreccion",
+		    	"position": "Contributor",
+		    	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+    		}
+    	},
+    	{ 
+      	"researcherOne": {
+	      	"imagesrc": "resources/images/system-photo/proponents/default.jpg",
+	      	"name": "Justine Ibanez",
+	      	"position": "Contributor",
+	      	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+  			},
+    		"researcherTwo": {
+		    	"imagesrc": "resources/images/system-photo/proponents/default.jpg",
+		    	"name": "Prince Sarto",
+		    	"position": "Contributor",
+		    	"description": "As Contributor in our research group i provides input and support to the project without assuming a formal leadership role.I have specialized knowledge or expertise relevant to the project or simply have a general interest in making a contribution. Participate in various aspects of the project."
+    		}
+    	}
+  	]
+}

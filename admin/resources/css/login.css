@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@charset "UTF-8";
+
+/*********************************************
+ LOGIN STYLE COMPONENTS  : © JEROME AVECILLA
+*********************************************/
+
+/*customizing default scroll bar*/
+::-webkit-scrollbar {
+  width: 12px; 
+}
+
+::-webkit-scrollbar-track {  
+  box-shadow: inset 0 0 2px grey; 
+  border-radius: 1px; 
+}
+ 
+::-webkit-scrollbar-thumb {  
+  background: #cecece!important; 
+  border-radius: 1px;
+  cursor: -webkit-grab; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #cecece!important; 
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   /*font-family: sans-serif;*/
+}
+html {
+   box-sizing: border-box;
+   user-select: none;
+}
+body {
+	/*background-image: url('../resources/images/system-photo/bg-school.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;*/
+}
+/*start customizing login form*/
+.login-content {
+   background-color: transparent !important;
+}
+.logo {
+	margin: 30px auto -12px auto;
+   padding: 15px;
+   text-align: center;
+   background-color: transparent !important;
+   opacity: 5;
+} 
+img.login-logo {
+	width: 135px!important;
+   opacity: 2;
+   margin-left: 50%;
+}
+.login-form {
+	background: rgba(0, 0, 0, 0.65) none repeat scroll 0 0 !important;
+    width: 370px!important;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    padding: 30px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.form-title {
+	color: #fff;
+   font-size: 22px;
+   padding-top: 10px;
+}
+.success-msg, .error-msg {
+	font-size: 14px;
+}
+/*styling input icons*/
+.icon {
+	padding: 15px;
+    background: dodgerblue;
+    opacity: .9;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+    font-size: 15px;
+}
+.eye-icon {
+	padding: 14.5px!important;
+    background: transparent;
+    border: 1px solid #f3f3f3;
+    color: #fff;
+    margin-top: 1px;
+    min-width: 50px;
+    text-align: center;
+}
+/*styling input fields*/
+.username-input-field {
+  	width: 83.5%!important;
+   padding: 10px;
+   outline: none;
+    background: transparent;
+    border: 1px solid #f3f3f3;
+    color: #f3f3f3;
+    font-size: 15px;
+    overflow: hidden;
+}
+.password-input-field {
+   width: 68%!important;
+    padding: 10px;
+    outline: none;
+    background: transparent;
+    border: 1px solid #f3f3f3;
+    color: #fff;
+    font-size: 15px;
+    overflow: hidden;
+}
+::placeholder {
+   color: #f3f3f3;
+}
+/*styling remember me content*/
+.checkbox {
+	color: #fff!important;
+    text-transform: capitalize!important;
+    font-size: 15px!important;
+    letter-spacing: .7px;
+}
+input[type="checkbox"] {
+	width: 14px;
+   height: 14px;
+}
+input[type="checkbox"]:checked {
+	accent-color: dodgerblue!important;
+    width: 16px;
+    height: 16px;
+}
+/*styling terms and condition content*/
+.terms-conditions {
+	font-size: 13px!important;
+	color: #fff;
+}
+.link {
+	font-size: 13.4px!important;
+    color: dodgerblue!important;
+    opacity: .9;
+} .link:hover {
+	color: #f3f3f3!important;
+} .link:visited {
+	color: #ffffff;
+}
+/*styling error attempting message*/
+.attempt-message {
+	font-size: 14px; 
+   word-break: break-word;
+}
+/*styling button*/
+.login-btn {
+	background: dodgerblue; 
+    opacity: .9;
+    color: #fff;
+    font-size: 14px!important;
+    font-weight: 400;
+    min-width: 50px;
+    margin-top: 8px;
+} .login-btn:hover {
+   opacity: 1;
+   color: #fff;
+}
+/*styling forgotten password content*/
+h4.forgot-password {
+	margin-left: -47%!important; 
+   word-spacing: 2px;
+   font-size: 16px;
+   color: #fff;
+}
+.reset-password {
+	margin-top: -12%;
+}
+span.first-sentence {
+	color: #fff;
+    font-size: 13.4px;
+} .second-sentence {
+	color: #fff;
+    font-size: 13.4px;
+    margin-left: -7px
+}
+/*styling account verification content*/
+.account-verification {
+	color: #fff;
+   font-size: 13.4px;
+}
+/*horizontal line*/
+div.hr {
+   height: 1px; 
+   background: #e7e7e7;
+}
+/*styling acknowledgement*/
+.notes {
+	color: #fff;
+   font-size: 13.4px;
+}
